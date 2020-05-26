@@ -114,7 +114,7 @@ public class JsoupFirstTest {
 
     @Test
     public void testSelector2() throws Exception {
-        Document doc = Jsoup.parse(new File("D:/Idea2020/YunXingWenJian/crawler-first/src/test/java/Jsoup/1.html"), "utf-8");
+        Document doc = Jsoup.parse(new File("D:\\Idea2020\\YunXingWenJian\\carwlar\\src\\test\\java\\Jsoup/1.html"), "utf-8");
 //        标签id
 //        Element select = doc.select("h3#city_bj").first();
 
